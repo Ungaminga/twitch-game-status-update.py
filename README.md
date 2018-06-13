@@ -14,6 +14,6 @@ As `scopes` use `channel_read channel_editor`. In other cases, you can use [The 
 
 4. Edit [.twitch.cfg](https://github.com/Ungaminga/twitch-game-status-update.py/blob/master/.twitch.cfg) and copy them to your homedir and python settings dir, if needed. My directory with python settings is `D:\WinPython\settings`. For homedir in windows type `%userprofile%` to windows explorer.
 
-5. Edit [dota2.bat] (https://github.com/Ungaminga/twitch-game-status-update.py/blob/master/dota2.bat) for automatic changing game and description while running game script. Debug it with cmd.
+5. Edit [dota2.bat](https://github.com/Ungaminga/twitch-game-status-update.py/blob/master/dota2.bat) for automatic changing game and description while running game script. Debug it with cmd.
 
 6. Happy Streaming.
